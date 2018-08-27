@@ -1,0 +1,528 @@
+First Name,Second Name,Team Name,Position,Squad Number
+Petr,Cech,Arsenal,GKP,1
+Bernd,Leno,Arsenal,GKP,19
+Laurent,Koscielny,Arsenal,DEF,6
+Héctor,Bellerín,Arsenal,DEF,2
+Nacho,Monreal,Arsenal,DEF,18
+Rob,Holding,Arsenal,DEF,16
+Shkodran,Mustafi,Arsenal,DEF,20
+Sead,Kolasinac,Arsenal,DEF,31
+Konstantinos,Mavropanos,Arsenal,DEF,27
+Stephan,Lichtsteiner,Arsenal,DEF,12
+Sokratis,Papastathopoulos,Arsenal,DEF,5
+Mesut,Özil,Arsenal,MID,10
+Aaron,Ramsey,Arsenal,MID,8
+Alex,Iwobi,Arsenal,MID,17
+Mohamed,Elneny,Arsenal,MID,4
+Granit,Xhaka,Arsenal,MID,34
+Henrikh,Mkhitaryan,Arsenal,MID,7
+Reiss,Nelson,Arsenal,MID,48
+Ainsley,Maitland-Niles,Arsenal,MID,15
+Danny,Welbeck,Arsenal,FWD,23
+Alexandre,Lacazette,Arsenal,FWD,9
+Pierre-Emerick,Aubameyang,Arsenal,FWD,14
+Lucas,Torreira,Arsenal,MID,11
+Matteo,Guendouzi,Arsenal,MID,29
+Asmir,Begovic,Bournemouth,GKP,27
+Artur,Boruc,Bournemouth,GKP,1
+Simon,Francis,Bournemouth,DEF,2
+Steve,Cook,Bournemouth,DEF,3
+Charlie,Daniels,Bournemouth,DEF,11
+Adam,Smith,Bournemouth,DEF,15
+Tyrone,Mings,Bournemouth,DEF,26
+Nathan,Aké,Bournemouth,DEF,5
+Jack,Simpson,Bournemouth,DEF,25
+Marc,Pugh,Bournemouth,MID,7
+Andrew,Surman,Bournemouth,MID,6
+Junior,Stanislas,Bournemouth,MID,19
+Dan,Gosling,Bournemouth,MID,4
+Jordon,Ibe,Bournemouth,MID,10
+Lewis,Cook,Bournemouth,MID,16
+Ryan,Fraser,Bournemouth,MID,24
+Emerson,Hyndman,Bournemouth,MID,22
+David,Brooks,Bournemouth,MID,20
+Callum,Wilson,Bournemouth,FWD,13
+Lys,Mousset,Bournemouth,FWD,9
+Joshua,King,Bournemouth,FWD,17
+Jermain,Defoe,Bournemouth,FWD,18
+Diego,Rico,Bournemouth,DEF,21
+Jefferson,Lerma,Bournemouth,MID,8
+Mathew,Ryan,Brighton,GKP,1
+Lewis,Dunk,Brighton,DEF,5
+Shane,Duffy,Brighton,DEF,4
+Bruno,Saltor Grau,Brighton,DEF,2
+Gaëtan,Bong,Brighton,DEF,3
+Markus,Suttner,Brighton,DEF,29
+Ezequiel,Schelotto,Brighton,DEF,21
+Leon,Balogun,Brighton,DEF,14
+Anthony,Knockaert,Brighton,MID,11
+Dale,Stephens,Brighton,MID,6
+Beram,Kayal,Brighton,MID,7
+Solomon,March,Brighton,MID,20
+Pascal,Groß,Brighton,MID,13
+Davy,Pröpper,Brighton,MID,24
+José Heriberto,Izquierdo Mena,Brighton,MID,19
+Glenn,Murray,Brighton,FWD,17
+Tomer,Hemed,Brighton,FWD,25
+Sam,Baldock,Brighton,FWD,9
+Jürgen,Locadia,Brighton,FWD,9
+Florin,Andone,Brighton,FWD,10
+David,Button,Brighton,GKP,27
+Jason,Steele,Brighton,GKP,23
+Bernardo,Fernandes da Silva Junior,Brighton,DEF,30
+Yves,Bissouma,Brighton,MID,8
+Alireza,Jahanbakhsh,Brighton,MID,16
+Martín,Montoya,Brighton,DEF,22
+Tom,Heaton,Burnley,GKP,1
+Nick,Pope,Burnley,GKP,29
+Matthew,Lowton,Burnley,DEF,2
+Ben,Mee,Burnley,DEF,6
+Stephen,Ward,Burnley,DEF,23
+James,Tarkowski,Burnley,DEF,5
+Kevin,Long,Burnley,DEF,28
+Charlie,Taylor,Burnley,DEF,3
+Phil,Bardsley,Burnley,DEF,26
+Johann Berg,Gudmundsson,Burnley,MID,7
+Steven,Defour,Burnley,MID,16
+Jeff,Hendrick,Burnley,MID,13
+Robbie,Brady,Burnley,MID,12
+Ashley,Westwood,Burnley,MID,18
+Jonathan,Walters,Burnley,MID,19
+Jack,Cork,Burnley,MID,4
+Aaron,Lennon,Burnley,MID,25
+Sam,Vokes,Burnley,FWD,9
+Ashley,Barnes,Burnley,FWD,10
+Nahki,Wells,Burnley,FWD,21
+Chris,Wood,Burnley,FWD,11
+Anders,Lindegaard,Burnley,GKP,22
+Joe,Hart,Burnley,GKP,20
+Ben,Gibson,Burnley,DEF,14
+Matej,Vydra,Burnley,FWD,27
+Harry,Arter,Cardiff,MID,7
+Neil,Etheridge,Cardiff,GKP,1
+Alex,Smithies,Cardiff,GKP,12
+Sean,Morrison,Cardiff,DEF,4
+Sol,Bamba,Cardiff,DEF,22
+Bruno,Ecuele Manga,Cardiff,DEF,5
+Matthew,Connolly,Cardiff,DEF,16
+Joe,Bennett,Cardiff,DEF,3
+Lee,Peltier,Cardiff,DEF,2
+Ashley Darel Jazz,Richards,Cardiff,DEF,6
+Greg,Halford,Cardiff,DEF,None
+Joe,Ralls,Cardiff,MID,8
+David Junior,Hoilett,Cardiff,MID,33
+Nathaniel,Mendez-Laing,Cardiff,MID,19
+Callum,Paterson,Cardiff,MID,13
+Aron,Gunnarsson,Cardiff,MID,17
+Anthony,Pilkington,Cardiff,MID,None
+Loïc,Damour,Cardiff,MID,20
+Danny,Ward,Cardiff,MID,9
+Josh,Murphy,Cardiff,MID,11
+Kenneth,Zohore,Cardiff,FWD,10
+Omar,Bogle,Cardiff,FWD,30
+Gary,Madine,Cardiff,FWD,24
+Bobby,Reid,Cardiff,FWD,14
+Greg,Cunninghamm,Cardiff,DEF,18
+Víctor,Camarasa,Cardiff,MID,21
+Thibaut,Courtois,Chelsea,GKP,13
+Willy,Caballero,Chelsea,GKP,13
+César,Azpilicueta,Chelsea,DEF,28
+Gary,Cahill,Chelsea,DEF,24
+Marcos,Alonso,Chelsea,DEF,3
+David,Luiz Moreira Marinho,Chelsea,DEF,30
+Victor,Moses,Chelsea,DEF,15
+Antonio,Rüdiger,Chelsea,DEF,2
+Andreas,Christensen,Chelsea,DEF,27
+Davide,Zappacosta,Chelsea,DEF,21
+Emerson,Palmieri dos Santos,Chelsea,DEF,33
+Eden,Hazard,Chelsea,MID,10
+Cesc,Fàbregas,Chelsea,MID,4
+Willian,Borges Da Silva,Chelsea,MID,22
+Pedro,Rodríguez Ledesma,Chelsea,MID,11
+N'Golo,Kanté,Chelsea,MID,7
+Ross,Barkley,Chelsea,MID,8
+Daniel,Drinkwater,Chelsea,MID,6
+Tiemoué,Bakayoko,Chelsea,MID,14
+Ethan,Ampadu,Chelsea,MID,44
+Callum,Hudson-Odoi,Chelsea,MID,20
+Ruben,Loftus-Cheek,Chelsea,MID,12
+Olivier,Giroud,Chelsea,FWD,18
+Álvaro,Morata,Chelsea,FWD,29
+Jorge Luiz,Frello Filho,Chelsea,MID,5
+Tammy,Abraham,Chelsea,FWD,19
+Kepa,Arrizabalaga,Chelsea,GKP,1
+Mateo,Kovacic,Chelsea,MID,17
+Wayne,Hennessey,Crystal Palace,GKP,13
+Julian,Speroni,Crystal Palace,GKP,1
+Vicente,Guaita,Crystal Palace,GKP,31
+James,Tomkins,Crystal Palace,DEF,5
+Scott,Dann,Crystal Palace,DEF,6
+Martin,Kelly,Crystal Palace,DEF,34
+Jeffrey,Schlupp,Crystal Palace,DEF,15
+Patrick,van Aanholt,Crystal Palace,DEF,3
+Mamadou,Sakho,Crystal Palace,DEF,12
+Jairo,Riedewald,Crystal Palace,DEF,44
+Aaron,Wan-Bissaka,Crystal Palace,DEF,29
+Jason,Puncheon,Crystal Palace,MID,42
+James,McArthur,Crystal Palace,MID,18
+Bakary,Sako,Crystal Palace,MID,None
+Andros,Townsend,Crystal Palace,MID,10
+Luka,Milivojevic,Crystal Palace,MID,4
+Wilfried,Zaha,Crystal Palace,FWD,11
+Christian,Benteke,Crystal Palace,FWD,17
+Alexander,Sørloth,Crystal Palace,FWD,9
+Cheikhou,Kouyaté,Crystal Palace,MID,8
+Joel,Ward,Crystal Palace,DEF,2
+Jaroslaw,Jach,Crystal Palace,DEF,33
+Pape,Souaré,Crystal Palace,DEF,27
+Connor,Wickham,Crystal Palace,FWD,21
+Sullay,Kaikai,Crystal Palace,MID,25
+Max,Meyer,Crystal Palace,MID,7
+Jordan,Ayew,Crystal Palace,FWD,14
+Jordan,Pickford,Everton,GKP,1
+Maarten,Stekelenburg,Everton,GKP,22
+Leighton,Baines,Everton,DEF,3
+Seamus,Coleman,Everton,DEF,23
+Phil,Jagielka,Everton,DEF,6
+Ashley,Williams,Everton,DEF,5
+Mason,Holgate,Everton,DEF,2
+Jonjoe,Kenny,Everton,DEF,43
+Michael,Keane,Everton,DEF,4
+Cuco,Martina,Everton,DEF,15
+Theo,Walcott,Everton,MID,11
+Yannick,Bolasie,Everton,MID,7
+James,McCarthy,Everton,MID,16
+Morgan,Schneiderlin,Everton,MID,18
+Idrissa,Gueye,Everton,MID,17
+Tom,Davies,Everton,MID,26
+Ademola,Lookman,Everton,MID,31
+Davy,Klaassen,Everton,MID,20
+Gylfi,Sigurdsson,Everton,MID,10
+Nikola,Vlasic,Everton,MID,27
+Beni,Baningime,Everton,MID,34
+Dominic,Calvert-Lewin,Everton,FWD,29
+Oumar,Niasse,Everton,FWD,19
+Cenk,Tosun,Everton,FWD,14
+Richarlison,de Andrade,Everton,MID,30
+Kevin,Mirallas,Everton,MID,8
+Sandro,Ramírez,Everton,FWD,9
+Lucas,Digne,Everton,DEF,12
+Yerry,Mina,Everton,DEF,13
+Bernard,Anício Caldeira Duarte,Everton,MID,20
+André Filipe,Tavares Gomes,Everton,MID,8
+Kurt,Zouma,Everton,DEF,5
+Calum,Chambers,Fulham,DEF,5
+Marcus,Bettinelli,Fulham,GKP,1
+Tim,Ream,Fulham,DEF,13
+Denis,Odoi,Fulham,DEF,4
+Tom,Cairney,Fulham,MID,10
+Kevin,McDonald,Fulham,MID,6
+Ryan,Sessegnon,Fulham,MID,3
+Stefan,Johansen,Fulham,MID,8
+Floyd,Ayité,Fulham,MID,11
+Neeskens,Kebano,Fulham,MID,7
+Rui Pedro,da Rocha Fonte,Fulham,MID,17
+Aboubakar,Kamara,Fulham,FWD,47
+Maxime,Le Marchand,Fulham,DEF,20
+Jean Michael,Seri,Fulham,MID,24
+Cyrus,Christie,Fulham,DEF,22
+Fabricio,Agosto Ramírez,Fulham,GKP,31
+André,Schürrle,Fulham,MID,14
+Aleksandar,Mitrovic,Fulham,FWD,9
+Alfie,Mawson,Fulham,DEF,26
+Sergio,Rico,Fulham,GKP,25
+Joe,Bryan,Fulham,DEF,23
+Timothy,Fosu-Mensah,Fulham,DEF,21
+André-Frank,Zambo Anguissa,Fulham,MID,29
+Luciano,Vietto,Fulham,FWD,19
+Ibrahima,Cissé,Fulham,MID,44
+Ben,Hamer,Huddersfield,GKP,12
+Jonas,Lössl,Huddersfield,GKP,1
+Christopher,Schindler,Huddersfield,DEF,26
+Chris,Löwe,Huddersfield,DEF,15
+Tommy,Smith,Huddersfield,DEF,2
+Mathias,Jorgensen,Huddersfield,DEF,25
+Scott,Malone,Huddersfield,DEF,3
+Florent,Hadergjonaj,Huddersfield,DEF,33
+Terence,Kongolo,Huddersfield,DEF,5
+Aaron,Mooy,Huddersfield,MID,10
+Rajiv,van La Parra,Huddersfield,MID,17
+Jonathan,Hogg,Huddersfield,MID,6
+Philip,Billing,Huddersfield,MID,8
+Tom,Ince,Huddersfield,MID,11
+Danny,Williams,Huddersfield,MID,19
+Abdelhamid,Sabiri,Huddersfield,MID,29
+Alex,Pritchard,Huddersfield,MID,21
+Ramadan,Sobhi,Huddersfield,MID,14
+Juninho,Bacuna,Huddersfield,MID,7
+Collin,Quaner,Huddersfield,FWD,23
+Laurent,Depoitre,Huddersfield,FWD,20
+Steve,Mounie,Huddersfield,FWD,24
+Elias,Kachunga,Huddersfield,FWD,9
+Erik,Durm,Huddersfield,DEF,37
+Adama,Diakhaby,Huddersfield,MID,11
+Isaac,Mbenza,Huddersfield,MID,18
+Jon Gorenc,Stankovic,Huddersfield,DEF,27
+Kasper,Schmeichel,Leicester,GKP,1
+Eldin,Jakupovic,Leicester,GKP,17
+Wes,Morgan,Leicester,DEF,5
+Christian,Fuchs,Leicester,DEF,28
+Danny,Simpson,Leicester,DEF,2
+Yohan,Benalouane,Leicester,DEF,29
+Benjamin,Chilwell,Leicester,DEF,3
+Harry,Maguire,Leicester,DEF,15
+Ricardo Domingos,Barbosa Pereira,Leicester,DEF,14
+Jonny,Evans,Leicester,DEF,6
+Marc,Albrighton,Leicester,MID,11
+Demarai,Gray,Leicester,MID,7
+Daniel,Amartey,Leicester,MID,18
+Wilfred,Ndidi,Leicester,MID,25
+Vicente,Iborra,Leicester,MID,21
+Matty,James,Leicester,MID,22
+Hamza,Choudhury,Leicester,MID,38
+Adrien Sebastian,Perruchet Silva,Leicester,MID,23
+Fousseni,Diabaté,Leicester,MID,27
+James,Maddison,Leicester,MID,10
+Jamie,Vardy,Leicester,FWD,9
+Shinji,Okazaki,Leicester,FWD,20
+Kelechi,Iheanacho,Leicester,FWD,8
+Danny,Ward,Leicester,GKP,12
+Rachid,Ghezzal,Leicester,MID,31
+Filip,Benkovic,Leicester,DEF,16
+Caglar,Söyüncü,Leicester,DEF,4
+Nampalys,Mendy,Leicester,MID,24
+Simon,Mignolet,Liverpool,GKP,22
+Loris,Karius,Liverpool,GKP,1
+Dejan,Lovren,Liverpool,DEF,6
+Alberto,Moreno,Liverpool,DEF,18
+Nathaniel,Clyne,Liverpool,DEF,2
+Joseph,Gomez,Liverpool,DEF,12
+Joel,Matip,Liverpool,DEF,32
+Ragnar,Klavan,Liverpool,DEF,17
+Trent,Alexander-Arnold,Liverpool,DEF,66
+Virgil,van Dijk,Liverpool,DEF,4
+Andrew,Robertson,Liverpool,DEF,26
+Alex,Oxlade-Chamberlain,Liverpool,MID,21
+Jordan,Henderson,Liverpool,MID,14
+Adam,Lallana,Liverpool,MID,20
+Sadio,Mané,Liverpool,MID,10
+Georginio,Wijnaldum,Liverpool,MID,5
+Mohamed,Salah,Liverpool,MID,11
+James,Milner,Liverpool,MID,7
+Fabio Henrique,Tavares,Liverpool,MID,3
+Naby,Keita,Liverpool,MID,8
+Roberto,Firmino,Liverpool,FWD,9
+Dominic,Solanke,Liverpool,FWD,29
+Xherdan,Shaqiri,Liverpool,MID,23
+Alisson,Ramses Becker,Liverpool,GKP,13
+Daniel,Sturridge,Liverpool,FWD,15
+Riyad,Mahrez,Man City,MID,26
+Ederson,Santana de Moraes,Man City,GKP,31
+Claudio,Bravo,Man City,GKP,1
+John,Stones,Man City,DEF,5
+Vincent,Kompany,Man City,DEF,4
+Nicolás,Otamendi,Man City,DEF,30
+Kyle,Walker,Man City,DEF,2
+Danilo Luiz,da Silva,Man City,DEF,3
+Benjamin,Mendy,Man City,DEF,22
+Aymeric,Laporte,Man City,DEF,14
+Fabian,Delph,Man City,DEF,18
+Raheem,Sterling,Man City,MID,7
+David,Silva,Man City,MID,21
+Fernando,Luiz Rosa,Man City,MID,25
+Kevin,De Bruyne,Man City,MID,17
+Ilkay,Gündogan,Man City,MID,8
+Leroy,Sané,Man City,MID,19
+Bernardo Mota,Veiga de Carvalho e Silva,Man City,MID,20
+Phil,Foden,Man City,MID,47
+Brahim,Diaz,Man City,MID,55
+Oleksandr,Zinchenko,Man City,MID,35
+Sergio,Agüero,Man City,FWD,10
+Gabriel Fernando,de Jesus,Man City,FWD,33
+David,De Gea,Man Utd,GKP,1
+Sergio,Romero,Man Utd,GKP,22
+Chris,Smalling,Man Utd,DEF,12
+Phil,Jones,Man Utd,DEF,4
+Luke,Shaw,Man Utd,DEF,23
+Marcos,Rojo,Man Utd,DEF,16
+Antonio,Valencia,Man Utd,DEF,25
+Matteo,Darmian,Man Utd,DEF,36
+Daley,Blind,Man Utd,DEF,17
+Eric,Bailly,Man Utd,DEF,3
+Victor,Lindelöf,Man Utd,DEF,2
+Ashley,Young,Man Utd,DEF,18
+José Diogo,Dalot Teixeira,Man Utd,DEF,20
+Alexis,Sánchez,Man Utd,MID,7
+Nemanja,Matic,Man Utd,MID,31
+Juan,Mata,Man Utd,MID,8
+Marouane,Fellaini,Man Utd,MID,27
+Ander,Herrera,Man Utd,MID,21
+Jesse,Lingard,Man Utd,MID,14
+Anthony,Martial,Man Utd,MID,11
+Paul,Pogba,Man Utd,MID,6
+Scott,McTominay,Man Utd,MID,39
+Frederico,Rodrigues de Paula Santos,Man Utd,MID,17
+Marcus,Rashford,Man Utd,FWD,10
+Romelu,Lukaku,Man Utd,FWD,9
+Andreas,Pereira,Man Utd,MID,15
+Lee,Grant,Man Utd,GKP,13
+Robert,Elliot,Newcastle,GKP,1
+Karl,Darlow,Newcastle,GKP,26
+Martin,Dubravka,Newcastle,GKP,12
+DeAndre,Yedlin,Newcastle,DEF,22
+Ciaran,Clark,Newcastle,DEF,2
+Jamaal,Lascelles,Newcastle,DEF,6
+Paul,Dummett,Newcastle,DEF,3
+Florian,Lejeune,Newcastle,DEF,20
+Javier,Manquillo,Newcastle,DEF,19
+Chancel,Mbemba,Newcastle,DEF,18
+Matt,Ritchie,Newcastle,MID,11
+Jonjo,Shelvey,Newcastle,MID,8
+Mohamed,Diamé,Newcastle,MID,10
+Christian,Atsu,Newcastle,MID,30
+Jacob,Murphy,Newcastle,MID,7
+Mikel,Merino,Newcastle,MID,23
+Isaac,Hayden,Newcastle,MID,14
+Sung-yueng,Ki,Newcastle,MID,4
+Dwight,Gayle,Newcastle,FWD,9
+Ayoze,Pérez,Newcastle,FWD,17
+Jose Luis,Mato Sanmartín,Newcastle,FWD,21
+Robert Kenedy,Nunes do Nascimento,Newcastle,MID,15
+Fabian,Schär,Newcastle,DEF,5
+Yoshinori,Muto,Newcastle,FWD,13
+Salomón,Rondón,Newcastle,FWD,9
+Federico,Fernández,Newcastle,DEF,18
+Danny,Ings,Southampton,FWD,9
+Alex,McCarthy,Southampton,GKP,1
+Fraser,Forster,Southampton,GKP,44
+Ryan,Bertrand,Southampton,DEF,21
+Maya,Yoshida,Southampton,DEF,3
+Cédric,Soares,Southampton,DEF,2
+Jack,Stephens,Southampton,DEF,5
+Sam,McQueen,Southampton,DEF,38
+Jan,Bednarek,Southampton,DEF,35
+Wesley,Hoedt,Southampton,DEF,6
+Steven,Davis,Southampton,MID,8
+James,Ward-Prowse,Southampton,MID,16
+Oriol,Romeu Vidal,Southampton,MID,14
+Pierre-Emile,Højbjerg,Southampton,MID,23
+Sofiane,Boufal,Southampton,MID,19
+Joshua,Sims,Southampton,MID,39
+Nathan,Redmond,Southampton,MID,22
+Mario,Lemina,Southampton,MID,18
+Stuart,Armstrong,Southampton,MID,17
+Mohamed,Elyounoussi,Southampton,MID,11
+Shane,Long,Southampton,FWD,7
+Charlie,Austin,Southampton,FWD,10
+Manolo,Gabbiadini,Southampton,FWD,20
+Guido,Carrillo,Southampton,FWD,9
+Angus,Gunn,Southampton,GKP,28
+Jannik,Vestergaard,Southampton,DEF,4
+Matt,Targett,Southampton,DEF,33
+Hugo,Lloris,Spurs,GKP,1
+Michel,Vorm,Spurs,GKP,13
+Toby,Alderweireld,Spurs,DEF,4
+Danny,Rose,Spurs,DEF,3
+Jan,Vertonghen,Spurs,DEF,5
+Ben,Davies,Spurs,DEF,33
+Kieran,Trippier,Spurs,DEF,2
+Kyle,Walker-Peters,Spurs,DEF,16
+Davinson,Sánchez,Spurs,DEF,6
+Serge,Aurier,Spurs,DEF,24
+Eric,Dier,Spurs,MID,15
+Mousa,Dembélé,Spurs,MID,19
+Erik,Lamela,Spurs,MID,11
+Christian,Eriksen,Spurs,MID,23
+Bamidele,Alli,Spurs,MID,20
+Victor,Wanyama,Spurs,MID,12
+Heung-Min,Son,Spurs,MID,7
+Harry,Winks,Spurs,MID,8
+Moussa,Sissoko,Spurs,MID,17
+Lucas,Rodrigues Moura da Silva,Spurs,MID,27
+Fernando,Llorente,Spurs,FWD,18
+Harry,Kane,Spurs,FWD,10
+Georges-Kévin,Nkoudou,Spurs,MID,14
+Luke,Amos,Spurs,MID,40
+Heurelho,Gomes,Watford,GKP,1
+Pontus,Dahlberg,Watford,GKP,30
+Younes,Kaboul,Watford,DEF,4
+Craig,Cathcart,Watford,DEF,15
+Sebastian,Prödl,Watford,DEF,5
+José,Holebas,Watford,DEF,25
+Miguel,Britos,Watford,DEF,3
+Christian,Kabasele,Watford,DEF,27
+Daryl,Janmaat,Watford,DEF,2
+Adrian,Mariappa,Watford,DEF,6
+Francisco,Femenía Far,Watford,DEF,21
+Marvin,Zeegelaar,Watford,DEF,22
+Marc,Navarro,Watford,DEF,23
+Adam,Masina,Watford,DEF,11
+Nathaniel,Chalobah,Watford,MID,14
+Tom,Cleverley,Watford,MID,8
+Etienne,Capoue,Watford,MID,29
+Abdoulaye,Doucouré,Watford,MID,16
+Roberto,Pereyra,Watford,MID,37
+Will,Hughes,Watford,MID,19
+Gerard,Deulofeu,Watford,MID,7
+Andre,Gray,Watford,FWD,18
+Troy,Deeney,Watford,FWD,9
+Stefano,Okaka,Watford,FWD,33
+Jerome,Sinclair,Watford,FWD,17
+Ben,Foster,Watford,GKP,26
+Ken,Sema,Watford,MID,12
+Domingos,Quina,Watford,MID,20
+Isaac,Success Ajayi,Watford,FWD,10
+Adrián,San Miguel del Castillo,West Ham,GKP,13
+Lukasz,Fabianski,West Ham,GKP,1
+Winston,Reid,West Ham,DEF,2
+Aaron,Cresswell,West Ham,DEF,3
+Angelo,Ogbonna,West Ham,DEF,21
+Sam,Byram,West Ham,DEF,22
+Pablo,Zabaleta,West Ham,DEF,5
+Declan,Rice,West Ham,DEF,41
+Reece,Oxford,West Ham,DEF,35
+Ryan,Fredericks,West Ham,DEF,24
+Issa,Diop,West Ham,DEF,23
+Arthur,Masuaku,West Ham,MID,26
+Mark,Noble,West Ham,MID,16
+Pedro,Obiang,West Ham,MID,14
+Manuel,Lanzini,West Ham,MID,10
+Michail,Antonio,West Ham,MID,30
+Edimilson,Fernandes,West Ham,MID,31
+Marko,Arnautovic,West Ham,FWD,7
+Andy,Carroll,West Ham,FWD,9
+Javier,Hernández Balcázar,West Ham,FWD,17
+Jordan,Hugill,West Ham,FWD,12
+Jack,Wilshere,West Ham,MID,19
+Andriy,Yarmolenko,West Ham,MID,20
+Fabián,Balbuena,West Ham,DEF,4
+Felipe Anderson,Pereira Gomes,West Ham,MID,8
+Robert,Snodgrass,West Ham,MID,11
+Lucas,Pérez,West Ham,FWD,27
+Carlos,Sánchez,West Ham,MID,15
+John,Ruddy,Wolves,GKP,21
+Will,Norris,Wolves,GKP,31
+Willy,Boly,Wolves,DEF,15
+Barry,Douglas,Wolves,DEF,3
+Matt,Doherty,Wolves,DEF,2
+Romain,Saïss,Wolves,DEF,27
+Ryan,Bennett,Wolves,DEF,5
+Danny,Batth,Wolves,DEF,6
+Roderick Jefferson,Gonçalves Miranda,Wolves,DEF,25
+Conor,Coady,Wolves,DEF,16
+Rúben Gonçalo,Silva Nascimento Vinagre,Wolves,DEF,29
+Diogo,Jota,Wolves,MID,18
+Rúben Diogo,da Silva Neves,Wolves,MID,8
+Ivan,Cavaleiro,Wolves,MID,7
+Hélder,Costa,Wolves,MID,10
+Bright,Enobakhare,Wolves,MID,14
+Raúl,Jiménez,Wolves,FWD,9
+Bonatini Lohner Maia,Bonatini,Wolves,FWD,33
+Morgan,Gibbs-White,Wolves,MID,17
+Rafa,Mir,Wolves,FWD,9
+Rui Pedro,dos Santos Patrício,Wolves,GKP,11
+João Filipe Iria,Santos Moutinho,Wolves,MID,28
+Jonathan,Castro Otto,Wolves,DEF,19
+Adama,Traoré,Wolves,MID,37
+Leander,Dendoncker,Wolves,MID,32
+Kortney,Hause,Wolves,DEF,30
